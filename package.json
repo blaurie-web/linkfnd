@@ -1,0 +1,23 @@
+{
+  "name": "linkfnd",
+  "version": "0.1.0",
+  "description": "qn to function dispatcher",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaurie-web/linkfnd.git"
+  },
+  "author": "B Laurie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaurie-web/linkfnd/issues"
+  },
+  "homepage": "https://github.com/blaurie-web/linkfnd#readme"
+}
